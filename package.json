@@ -74,7 +74,7 @@
     "rimraf": "^5.0.1",
     "simple-git-hooks": "^2.9.0",
     "typescript": "5.0.4",
-    "vitest": "^1.2.2",
+    "vitest": "^1.6.1",
     "wagmi": "^1.4.12"
   },
   "scripts": {
